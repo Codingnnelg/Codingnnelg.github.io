@@ -4,8 +4,11 @@ body {
 }
 
 h1 {
+  display: block;
+  background-color: black;
   color: white;
   text-align: center;
+  
 }
 
 p {
